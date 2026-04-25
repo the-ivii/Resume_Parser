@@ -1,0 +1,43 @@
+Divyanshi Vinod Talreja
+divyanshi@example.com | +91-1234567890 | Bengaluru, India
+LinkedIn: linkedin.com/in/divyanshit | GitHub: github.com/divyanshit
+
+SUMMARY
+Software engineer with 3 years of experience building web applications and
+internal tools. Comfortable in Python and JavaScript. Interested in moving
+into backend-heavy roles with more ownership of system design.
+
+EDUCATION
+B.E. Computer Science, PST  University, 2024
+- CGPA: 9.4/10
+- Relevant coursework: Operating Systems, DBMS, Distributed Systems
+
+EXPERIENCE
+
+Software Engineer, Acme Retail Tech (Jul 2022 - Present)
+- Built CRUD APIs in Django for the merchandising team.
+- Helped migrate a legacy MySQL database to PostgreSQL.
+- Wrote unit tests for the checkout service.
+- Participated in on-call rotation.
+
+Software Engineering Intern, BrightLabs (Jan 2022 - Jun 2022)
+- Worked on a React dashboard for internal analytics.
+- Fixed bugs in the Node.js backend.
+
+PROJECTS
+
+ExpenseSplit (Side project, 2023)
+- Web app to split bills among roommates.
+- Stack: Django, React, Postgres, deployed on Render.
+- ~200 GitHub stars.
+
+Kaggle Titanic Challenge (2021)
+- Did feature engineering and tried a few classifiers.
+- Ranked in the top 40% of submissions.
+
+SKILLS
+Python, Django, Flask (basics), JavaScript, React, SQL, Git, Docker (basics),
+REST, Linux command line
+
+CERTIFICATIONS
+- AWS Cloud Practitioner (2023)

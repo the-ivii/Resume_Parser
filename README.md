@@ -3,8 +3,6 @@
 A multi-agent AI system built with **LangChain** and **LangGraph** that reviews
 a resume against a target job role and returns a polished, actionable review.
 
-> Submitted for the assignment *"Build a Multi-Agent System (LangChain + LangGraph)"*.
-
 ---
 
 ## Why this use case?
